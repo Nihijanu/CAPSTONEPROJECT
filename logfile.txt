@@ -1,0 +1,12 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\CAPSTONEPROJECT\demologging.py", line 11, in Operation
+    print(self.x/self.y)
+          ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\CAPSTONEPROJECT\demologging.py", line 11, in Operation
+    print(self.x/self.y)
+          ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
